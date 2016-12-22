@@ -1,0 +1,17 @@
+.myBox
+{
+ width: 100px;
+ height: 100px;
+ margin: 0 auto;
+ border-style: groove;
+}
+
+.clickCount
+{
+	
+}
+
+.clickCount:hover
+{
+ color: red;
+}
